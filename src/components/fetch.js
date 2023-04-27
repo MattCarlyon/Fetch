@@ -36,7 +36,7 @@ useEffect(() => {
 
     return <div>
         <h1>Fetch data with useEffect</h1>
-        <h3>{`Public repositories: ${profile.publicRepos}`}</h3>
+        <h3>{`Public Repositories: ${profile.publicRepos}`}</h3>
         <h3>{`Name: ${profile.name}`}</h3>
     
     </div>
